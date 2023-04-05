@@ -1,0 +1,54 @@
+.legislation-instance {
+    width: 1000px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: aliceBlue;
+}
+
+.legislation-instance:hover {
+    background-color: aliceBlue;
+    cursor: default;
+}
+.legislation-instance-image {
+    width: 25%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.legislation-instance-name {
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 5px;
+}
+
+.legislation-instance ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.legislation-instance-desc {
+    text_align: center;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.legislation-instance-desc span {
+    font-weight: bold;
+}
+
+.legislation-instance-rep {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.legislation-instance-rep:hover {
+    background-color: aliceBlue;
+    cursor: default;
+}

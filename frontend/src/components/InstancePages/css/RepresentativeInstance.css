@@ -1,0 +1,80 @@
+.representative-instance {
+    width: 850px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 20px;
+    margin-top: 75px;
+    background-color: aliceBlue;
+}
+
+.representative-instance:hover {
+    background-color: aliceBlue;
+    cursor: default;
+}
+
+.representative-instance-image {
+    width: 30%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.feed-container{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    justify-content: space-between;
+}
+
+.single-feed {
+    padding-right: 2%;
+    padding-bottom: 5%;
+}
+
+.representative-instance-name {
+    margin: 0;
+    font-weight: bold;
+    font-size: 120%;
+    margin-bottom: 5px;
+}
+
+.representative-instance ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.page-container {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.representative-instance-desc {
+    margin: 0;
+    text_align: center;
+    padding-left: 10px;
+}
+
+.representative-instance-desc span {
+    font-weight: bold;
+}
+
+.representative-instance-list {
+    margin: 0;
+    text_align: center;
+    padding-left: 10px;
+}
+
+.representative-instance-list span {
+    font-weight: bold;
+}
+
+.representative-instance-list a {
+}
+
+.district-map {
+    margin-top: 10px;
+}

@@ -1,0 +1,29 @@
+a.representative_link {
+  color: black;
+}
+
+.representative {
+  border: 1px solid lightgray;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.representative-desc {
+  width: calc(100% / 5);
+  padding: 5px;
+  vertical-align: middle;
+}
+
+.previewImage {
+  width: 95px;
+  height: 80px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px
+}
+
+.previewImageDescription {
+  width: 115px;
+  padding: 5px;
+}

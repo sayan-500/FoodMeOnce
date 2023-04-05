@@ -1,0 +1,46 @@
+.sorting-container {
+    width: 100%;
+    padding: 10px;
+    background-color: aliceBlue;
+}
+
+.sorting-container h3 {
+    margin-left: 20px;
+}
+
+.districts-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+    justify-content: space-between
+}
+
+.button-container {
+    width: 100%;
+    color: black;
+    background-color: white;
+    border: none;
+    text-underline-position: unset;
+}
+
+.button-container:hover {
+    background-color:whitesmoke;
+    text-decoration: none; 
+    color: black;
+}
+
+.button-container:active {background-color:whitesmoke}
+
+.districts-model hr {
+    margin-top: 0;
+}
+
+.sort {
+    max-width: 400px;
+}
+.filter {
+    max-width: 500px;
+}

@@ -1,0 +1,7 @@
+python
+sqlalchemy
+numpy
+pandas
+requests
+psycopg2
+selenium
